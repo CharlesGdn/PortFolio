@@ -4,7 +4,7 @@ This theme is designed by [flexycodex](https://themeforest.net/item/flexyvcard-r
 
 I have made this into a Jekyll Theme. Demo: [https://jekyller.github.io/PanelCV](https://jekyller.github.io/PanelCV)
 
-The theme would look like this 
+The theme would look like this
 
 ![Demo](/images/demo.png)
 
